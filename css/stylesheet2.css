@@ -1,0 +1,35 @@
+body
+{
+	margin:30px;
+	display:block;
+	background-color:#033482; 
+}
+
+
+#trt1
+{
+	display:none;
+}
+.row
+{
+	margin-top: 80px;
+	padding-top: 50px;
+}
+.navbar-fixed-top
+{
+	background-image: url('../images/img1.jpg'); 
+}
+#nform
+{
+	margin-right: 110px;
+}
+.myHeader
+   {
+      padding-top: 10px;
+      padding-right: 50px;
+      padding:10px , 50px;
+      font-size: 40px;
+      text-shadow:3px 3px 10px black;
+      color: white;
+      font-family: 'Luckiest Guy', cursive;
+   }
